@@ -4,7 +4,7 @@
 
 # 👩🏻‍💻 AnthonyDev
 
-**`Desarrollador Backend`**
+**`Desarrollador Full Stack`**
 
 Mi nombre es Anthony  y soy estudiante de Ingenieria de sistemas, actualmente soy egresado tecnico de Desarrollo de Sistemas de Información. Tengo un gran interés por la tecnología, el desarrollo de software y la creación de soluciones web, escritorio y movil.
 
