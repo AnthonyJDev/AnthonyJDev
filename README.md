@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="AnthonyDev - Desarrollador Backend" width="100%" />
+  <img src="./assets/image.png" alt="AnthonyDev - Desarrollador Backend" width="100%" />
 </p>
 
 # 👩🏻‍💻 AnthonyDev
